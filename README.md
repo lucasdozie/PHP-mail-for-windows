@@ -1,4 +1,4 @@
-# PHP-mail-for-windows
+# PHP mail with attachment for windows
 PHP mail for windows
 There are two script files:
 
